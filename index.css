@@ -57,4 +57,16 @@ body {
       .container {
         padding: 2px 16px;
       }
-  
+.p {
+    color: #000;
+
+}  
+.exampleInputEmail1 {
+    color: #dddddd;
+}
+.exampleInputPassword1 {
+    color: bisque;
+}
+.form-check-label {
+    color: beige;
+}
