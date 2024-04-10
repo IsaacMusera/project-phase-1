@@ -1,0 +1,33 @@
+/* * {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: sans-serif;
+}
+#nav-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.navbar {
+  height: 70px;
+  background-color: #333;
+}
+.navbar-brand {
+  height: 150px;
+  padding-left: 20px;
+  width: 9091px;
+}
+.navbar-nav li {
+  padding: 0 10px;
+}
+.navbar-nav li a {
+  color: #e76565 !important;
+  font-weight: 700;
+}
+#Logo {
+  height: 70px;
+  width: 70px;
+  colo
+} */
